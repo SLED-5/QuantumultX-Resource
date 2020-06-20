@@ -207,7 +207,7 @@ host-SUFFIX,tudou.com,DIRECT
 host-SUFFIX,youku.com,DIRECT
 host-SUFFIX,xunlei.com,DIRECT
 host-SUFFIX,zhihu.com,DIRECT
-host-SUFFIX,ls.apple.com,DIRECT
+host-SUFFIX,ls.apple.com,Location
 host-SUFFIX,weather.com,DIRECT
 host-SUFFIX,weibo.cn,DIRECT
 host-SUFFIX,weibo.com,DIRECT
