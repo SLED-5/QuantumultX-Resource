@@ -1,0 +1,3 @@
+#Apple News
+USER-AGENT,AppleNews*,Apple News
+USER-AGENT,com.apple.news*,Apple News
