@@ -11,14 +11,14 @@ host-suffix, mzstatic.com, Apple TV+
 ;-host, gateway.icloud.com, Apple News
 
 # > Apple News and Apple Map TOMTOM Version
-DOMAIN,gspe1-ssl.ls.apple.com,Location
-USER-AGENT,AppleNews*,Apple News
-USER-AGENT,com.apple.news*,Apple News
-DOMAIN-SUFFIX,apple.news,Apple News
-DOMAIN,news-client.apple.com,Apple News
-DOMAIN,news-edge.apple.com,Apple News
-DOMAIN,news-events.apple.com,Apple News
-DOMAIN,apple.comscoreresearch.com,Apple News
+;DOMAIN,gspe1-ssl.ls.apple.com,Location
+;USER-AGENT,AppleNews*,Apple News
+;USER-AGENT,com.apple.news*,Apple News
+;DOMAIN-SUFFIX,apple.news,Apple News
+;DOMAIN,news-client.apple.com,Apple News
+;DOMAIN,news-edge.apple.com,Apple News
+;DOMAIN,news-events.apple.com,Apple News
+;DOMAIN,apple.comscoreresearch.com,Apple News
 
 host-suffix, bamgrid.com, YouTube
 USER-AGENT,TikTok*,PROXY
